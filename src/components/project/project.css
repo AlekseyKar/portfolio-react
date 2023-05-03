@@ -1,12 +1,3 @@
-/* Projects  */
-
-.projects {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  column-gap: 1.875rem;
-  row-gap: 1.875rem;
-}
 
 .project {
   max-width: 23.125rem;
