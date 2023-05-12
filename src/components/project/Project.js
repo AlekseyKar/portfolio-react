@@ -1,4 +1,4 @@
-import "./project.css";
+import "./Project.css";
 import { NavLink } from 'react-router-dom';
 
 const Project = ({title, img, index}) => {

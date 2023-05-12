@@ -1,4 +1,4 @@
-import "./footer.css";
+import "./Footer.css";
 
 import vk from "./../../img/icons/vk.svg";
 import instagram from "./../../img/icons/instagram.svg";
